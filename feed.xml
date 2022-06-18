@@ -1,31 +1,3 @@
-
-Helper to generate Itunes podcast XML
-Channel info
-Title
-Link
-Language
-Copyright
-Subtitle
-Author
-Summary
-Owner name
-Owner email
-Image url
-Category
-Episode info
-Item Title
-Item Author
-Item Subtitle
-Item Summery
-Item Image Url
-Item Url
-Item Mp3 Length
-Item Type
-Item Guid
-Item Publication Date
-Item Duration
-
-
   <?xml version="1.0" encoding="UTF-8"?>
   <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
@@ -49,7 +21,7 @@ Item Duration
         <itunes:subtitle></itunes:subtitle>
         <itunes:summary></itunes:summary>
         <itunes:image href="https://j1819-3845.github.io/podcast-server/logo.jpg" />
-        <enclosure url="https://j1819-3845.github.io/podcast-server/mp3/Titan-01.mp3" length="22378" type="audio/mpeg"/>
+        <enclosure url="https://j1819-3845.github.io/podcast-server/mp3/Titan-01.mp3" length="22378855" type="audio/mpeg"/>
         <guid></guid>
         <pubDate>Sat Jun 18 2022 20:29:13 GMT+0700 (Western Indonesia Time)</pubDate>
         <itunes:duration>46:37</itunes:duration>

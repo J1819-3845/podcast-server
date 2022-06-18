@@ -26,6 +26,18 @@
         <itunes:duration>46:37</itunes:duration>
       </item>
     
+      <item>
+        <title>Titan 02</title>
+        <itunes:author>Chernow</itunes:author>
+        <itunes:subtitle></itunes:subtitle>
+        <itunes:summary></itunes:summary>
+        <itunes:image href="https://j1819-3845.github.io/podcast-server/logo.jpg" />
+        <enclosure url="https://j1819-3845.github.io/podcast-server/mp3/Titan-01.mp3" length="22378855" type="audio/mpeg"/>
+        <guid></guid>
+        <pubDate>Sat Jun 18 2022 20:29:13 GMT+0700 (Western Indonesia Time)</pubDate>
+        <itunes:duration>46:37</itunes:duration>
+      </item>
+    
   </channel>
   </rss>
 

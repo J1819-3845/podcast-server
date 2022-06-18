@@ -1,9 +1,9 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:media="http://www.rssboard.org/media-rss" version="2.0">
 <channel>
 <title>Titan</title>
-<link>https://j1819-3845.github.io/</link>
+<link>https://j1819-3845.github.io/podcast-server/</link>
 <language>en-us</language>
-<atom:link href="https://j1819-3845.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+<atom:link href="https://j1819-3845.github.io/podcast-server/feed.xml" rel="self" type="application/rss+xml"/>
 <copyright>RC</copyright>
 <itunes:subtitle>Minutes from Titan</itunes:subtitle>
 <itunes:author>JG</itunes:author>
@@ -20,7 +20,7 @@ PODCAST DESCRIPTION
 <itunes:name>PODCAST CREATOR</itunes:name>
 <itunes:email>PODCAST CREATOR@EMAIL.COM</itunes:email>
 </itunes:owner>
-<itunes:image href="https://j1819-3845.github.io/logo.jpg">
+<itunes:image href="https://j1819-3845.github.io/podcast-server/logo.jpg">
 <itunes:category text="Education"></itunes:category>
 <itunes:category text="Self-Improvement"></itunes:category>
 <itunes:category text="Biography"></itunes:category>
@@ -42,20 +42,48 @@ EPISODE DESCRIPTION
 EPISODE DESCRIPTION
 ]]>
 </description>
-<itunes:image href="https://j1819-3845.github.io/logo.jpg"/>
-<enclosure url="https://j1819-3845.github.io/mp3/Titan-01.MP3" length="LENGTH" type="audio/mpeg"/>
+<itunes:image href="https://j1819-3845.github.io/podcast-server/logo.jpg"/>
+<enclosure url="https://j1819-3845.github.io/podcast-server/mp3/Titan-01.mp3" length="LENGTH" type="audio/mpeg"/>
 <itunes:duration>46:37</itunes:duration>
 <itunes:season>Season 01</itunes:season>
 <itunes:episode>EPISODE 01</itunes:episode>
 <itunes:episodeType>full</itunes:episodeType>
 <guid isPermaLink="false">
-https://LOCATION OF MP3.MP3
+https://j1819-3845.github.io/podcast-server/mp3/Titan-01.mp3
 </guid>
 <pubDate>EPISODE PUBLISH DATE</pubDate>
 <itunes:explicit>YES/NO</itunes:explicit>
 </item>
 
-... REPEAT <item> for each episode ...
-
+<item>
+<title>EPISODE TITLE</title>
+<itunes:title>EPISODE TITLE</itunes:title>
+<itunes:author>Jatin Garg</itunes:author>
+<itunes:subtitle>
+EPISODE SUBTITLE
+</itunes:subtitle>
+<itunes:summary>
+<![CDATA[
+EPISODE DESCRIPTION
+]]>
+</itunes:summary>
+<description>
+<![CDATA[
+EPISODE DESCRIPTION
+]]>
+</description>
+<itunes:image href="https://j1819-3845.github.io/podcast-server/logo.jpg"/>
+<enclosure url="https://j1819-3845.github.io/podcast-server/mp3/Titan-02.mp3" length="LENGTH" type="audio/mpeg"/>
+<itunes:duration>46:37</itunes:duration>
+<itunes:season>Season 01</itunes:season>
+<itunes:episode>EPISODE 01</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<guid isPermaLink="false">
+https://j1819-3845.github.io/podcast-server/mp3/Titan-02.mp3
+</guid>
+<pubDate>EPISODE PUBLISH DATE</pubDate>
+<itunes:explicit>YES/NO</itunes:explicit>
+</item>
+  
 </channel>
 </rss>

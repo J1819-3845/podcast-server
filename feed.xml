@@ -1,8 +1,9 @@
 
-  <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+ <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>Books podcast</title>
     <link>https://j1819-3845.github.io/podcast-server/</link>
+    <description> Audiobook podcast server </description>
     <language>en</language>
     <copyright></copyright>
     <itunes:subtitle></itunes:subtitle>
@@ -13,7 +14,7 @@
       <itunes:email>alphajatin@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:image href="https://j1819-3845.github.io/podcast-server/logo.jpg" />
-    <itunes:category text="Food"/>
+    <itunes:category text="Investing"/>
     
       <item>
         <title>Titan 01</title>
@@ -33,10 +34,10 @@
         <itunes:subtitle>second episode</itunes:subtitle>
         <itunes:summary>plot build-up</itunes:summary>
         <itunes:image href="https://j1819-3845.github.io/podcast-server/logo.jpg" />
-        <enclosure url="https://j1819-3845.github.io/podcast-server/mp3/Titan-01.mp3" length="22378855" type="audio/mpeg"/>
+        <enclosure url="https://j1819-3845.github.io/podcast-server/mp3/Titan-02.mp3" length="21367185" type="audio/mpeg"/>
         <guid>https://j1819-3845.github.io/podcast-server/mp3/Titan-01.mp3</guid>
         <pubDate>Wed, 02 Oct 2002 13:00:00 GMT</pubDate>
-        <itunes:duration>46:37</itunes:duration>
+        <itunes:duration>44:31</itunes:duration>
       </item>
     
   </channel>

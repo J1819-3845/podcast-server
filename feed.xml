@@ -14,7 +14,7 @@
       <itunes:email>alphajatin@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:image href="https://j1819-3845.github.io/podcast-server/logo.jpg" />
-    <itunes:category text="Investing"/>
+    <itunes:category text="Comedy"/>
     
       <item>
         <title>Titan 01</title>
@@ -35,7 +35,7 @@
         <itunes:summary>plot build-up</itunes:summary>
         <itunes:image href="https://j1819-3845.github.io/podcast-server/logo.jpg" />
         <enclosure url="https://j1819-3845.github.io/podcast-server/mp3/Titan-02.mp3" length="21367185" type="audio/mpeg"/>
-        <guid>https://j1819-3845.github.io/podcast-server/mp3/Titan-01.mp3</guid>
+        <guid>https://j1819-3845.github.io/podcast-server/mp3/Titan-02.mp3</guid>
         <pubDate>Wed, 02 Oct 2002 13:00:00 GMT</pubDate>
         <itunes:duration>44:31</itunes:duration>
       </item>

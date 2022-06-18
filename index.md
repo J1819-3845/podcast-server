@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Jatin's podcast server.
 
 You can use the [editor on GitHub](https://github.com/J1819-3845/podcast-server/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 

@@ -24,7 +24,7 @@
         <itunes:image href="https://j1819-3845.github.io/podcast-server/logo.jpg" />
         <enclosure url="https://j1819-3845.github.io/podcast-server/mp3/Titan-01.mp3" length="22378855" type="audio/mpeg"/>
         <guid>https://j1819-3845.github.io/podcast-server/mp3/Titan-01.mp3</guid>
-        <pubDate>Wed, 02 Oct 2002 13:00:00 GMT</pubDate>
+        <pubDate>Wed, 19 Jun 2022 13:00:00 GMT</pubDate>
         <itunes:duration>46:37</itunes:duration>
       </item>
     
@@ -36,9 +36,82 @@
         <itunes:image href="https://j1819-3845.github.io/podcast-server/logo.jpg" />
         <enclosure url="https://j1819-3845.github.io/podcast-server/mp3/Titan-02.mp3" length="21367185" type="audio/mpeg"/>
         <guid>https://j1819-3845.github.io/podcast-server/mp3/Titan-02.mp3</guid>
-        <pubDate>Wed, 02 Oct 2002 13:00:00 GMT</pubDate>
+        <pubDate>Wed, 19 Jun 2022 13:00:00 GMT</pubDate>
         <itunes:duration>44:31</itunes:duration>
       </item>
-    
+   
+   
+        <item>
+        <title>Titan 03</title>
+        <itunes:author>Chernow</itunes:author>
+        <itunes:subtitle>second episode</itunes:subtitle>
+        <itunes:summary>plot build-up</itunes:summary>
+        <itunes:image href="https://j1819-3845.github.io/podcast-server/logo.jpg" />
+        <enclosure url="https://j1819-3845.github.io/podcast-server/mp3/Titan-03.mp3" length="21817745" type="audio/mpeg"/>
+        <guid>https://j1819-3845.github.io/podcast-server/mp3/Titan-03.mp3</guid>
+        <pubDate>Wed, 19 Jun 2022 13:00:00 GMT</pubDate>
+        <itunes:duration>45:27</itunes:duration>
+      </item>
+   
+         <item>
+        <title>Titan 04</title>
+        <itunes:author>Chernow</itunes:author>
+        <itunes:subtitle>second episode</itunes:subtitle>
+        <itunes:summary>plot build-up</itunes:summary>
+        <itunes:image href="https://j1819-3845.github.io/podcast-server/logo.jpg" />
+        <enclosure url="https://j1819-3845.github.io/podcast-server/mp3/Titan-04.mp3" length="21495498" type="audio/mpeg"/>
+        <guid>https://j1819-3845.github.io/podcast-server/mp3/Titan-04.mp3</guid>
+        <pubDate>Wed, 19 Jun 2022 13:00:00 GMT</pubDate>
+        <itunes:duration>44:47</itunes:duration>
+      </item>
+   
+         <item>
+        <title>Titan 05</title>
+        <itunes:author>Chernow</itunes:author>
+        <itunes:subtitle>second episode</itunes:subtitle>
+        <itunes:summary>plot build-up</itunes:summary>
+        <itunes:image href="https://j1819-3845.github.io/podcast-server/logo.jpg" />
+        <enclosure url="https://j1819-3845.github.io/podcast-server/mp3/Titan-05.mp3" length="22123064" type="audio/mpeg"/>
+        <guid>https://j1819-3845.github.io/podcast-server/mp3/Titan-05.mp3</guid>
+        <pubDate>Wed, 19 Jun 2022 13:00:00 GMT</pubDate>
+        <itunes:duration>46:05</itunes:duration>
+      </item>
+   
+         <item>
+        <title>Titan 06</title>
+        <itunes:author>Chernow</itunes:author>
+        <itunes:subtitle>second episode</itunes:subtitle>
+        <itunes:summary>plot build-up</itunes:summary>
+        <itunes:image href="https://j1819-3845.github.io/podcast-server/logo.jpg" />
+        <enclosure url="https://j1819-3845.github.io/podcast-server/mp3/Titan-06.mp3" length="21747109" type="audio/mpeg"/>
+        <guid>https://j1819-3845.github.io/podcast-server/mp3/Titan-06.mp3</guid>
+        <pubDate>Wed, 19 Jun 2022 13:00:00 GMT</pubDate>
+        <itunes:duration>45:18</itunes:duration>
+      </item>
+   
+         <item>
+        <title>Titan 07</title>
+        <itunes:author>Chernow</itunes:author>
+        <itunes:subtitle>second episode</itunes:subtitle>
+        <itunes:summary>plot build-up</itunes:summary>
+        <itunes:image href="https://j1819-3845.github.io/podcast-server/logo.jpg" />
+        <enclosure url="https://j1819-3845.github.io/podcast-server/mp3/Titan-07.mp3" length="21503439" type="audio/mpeg"/>
+        <guid>https://j1819-3845.github.io/podcast-server/mp3/Titan-07.mp3</guid>
+        <pubDate>Wed, 19 Jun 2022 13:00:00 GMT</pubDate>
+        <itunes:duration>44:48</itunes:duration>
+      </item>
+   
+         <item>
+        <title>Titan 08</title>
+        <itunes:author>Chernow</itunes:author>
+        <itunes:subtitle>second episode</itunes:subtitle>
+        <itunes:summary>plot build-up</itunes:summary>
+        <itunes:image href="https://j1819-3845.github.io/podcast-server/logo.jpg" />
+        <enclosure url="https://j1819-3845.github.io/podcast-server/mp3/Titan-08.mp3" length="21348167" type="audio/mpeg"/>
+        <guid>https://j1819-3845.github.io/podcast-server/mp3/Titan-08.mp3</guid>
+        <pubDate>Wed, 19 Jun 2022 13:00:00 GMT</pubDate>
+        <itunes:duration>44:28</itunes:duration>
+      </item>
+   
   </channel>
   </rss>

@@ -1,0 +1,165 @@
+
+ <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Books podcast</title>
+    <link>https://j1819-3845.github.io/podcast-server/</link>
+    <description> Audiobook podcast server </description>
+    <language>en</language>
+    <copyright></copyright>
+    <itunes:subtitle></itunes:subtitle>
+    <itunes:author>Jatin Garg</itunes:author>
+    <itunes:summary>Podcast from my favorite books. </itunes:summary>  
+    <itunes:owner>
+      <itunes:name>Jatin Garg</itunes:name>
+      <itunes:email>alphajatin@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://j1819-3845.github.io/podcast-server/logo.jpg" />
+    <itunes:category text="Comedy"/>
+    
+      <item>
+        <title>Titan 01</title>
+        <itunes:author>Chernow</itunes:author>
+        <itunes:subtitle>first episode</itunes:subtitle>
+        <itunes:summary>introduction</itunes:summary>
+        <itunes:image href="https://j1819-3845.github.io/podcast-server/logo-titan.jpg" />
+        <enclosure url="https://j1819-3845.github.io/podcast-server/mp3/Titan-01.mp3" length="22378855" type="audio/mpeg"/>
+        <guid>https://j1819-3845.github.io/podcast-server/mp3/Titan-01.mp3</guid>
+        <pubDate>Wed, 19 Jun 2022 13:00:00 GMT</pubDate>
+        <itunes:duration>46:37</itunes:duration>
+      </item>
+    
+      <item>
+        <title>Titan 02</title>
+        <itunes:author>Chernow</itunes:author>
+        <itunes:subtitle>second episode</itunes:subtitle>
+        <itunes:summary>plot build-up</itunes:summary>
+        <itunes:image href="https://j1819-3845.github.io/podcast-server/logo-titan.jpg" />
+        <enclosure url="https://j1819-3845.github.io/podcast-server/mp3/Titan-02.mp3" length="21367185" type="audio/mpeg"/>
+        <guid>https://j1819-3845.github.io/podcast-server/mp3/Titan-02.mp3</guid>
+        <pubDate>Wed, 19 Jun 2022 14:00:00 GMT</pubDate>
+        <itunes:duration>44:31</itunes:duration>
+      </item>
+   
+   
+        <item>
+        <title>Titan 03</title>
+        <itunes:author>Chernow</itunes:author>
+        <itunes:subtitle>second episode</itunes:subtitle>
+        <itunes:summary>plot build-up</itunes:summary>
+        <itunes:image href="https://j1819-3845.github.io/podcast-server/logo-titan.jpg" />
+        <enclosure url="https://j1819-3845.github.io/podcast-server/mp3/Titan-03.mp3" length="21817745" type="audio/mpeg"/>
+        <guid>https://j1819-3845.github.io/podcast-server/mp3/Titan-03.mp3</guid>
+        <pubDate>Wed, 19 Jun 2022 15:00:00 GMT</pubDate>
+        <itunes:duration>45:27</itunes:duration>
+      </item>
+   
+         <item>
+        <title>Titan 04</title>
+        <itunes:author>Chernow</itunes:author>
+        <itunes:subtitle>second episode</itunes:subtitle>
+        <itunes:summary>plot build-up</itunes:summary>
+        <itunes:image href="https://j1819-3845.github.io/podcast-server/logo-titan.jpg" />
+        <enclosure url="https://j1819-3845.github.io/podcast-server/mp3/Titan-04.mp3" length="21495498" type="audio/mpeg"/>
+        <guid>https://j1819-3845.github.io/podcast-server/mp3/Titan-04.mp3</guid>
+        <pubDate>Wed, 19 Jun 2022 16:00:00 GMT</pubDate>
+        <itunes:duration>44:47</itunes:duration>
+      </item>
+   
+         <item>
+        <title>Titan 05</title>
+        <itunes:author>Chernow</itunes:author>
+        <itunes:subtitle>second episode</itunes:subtitle>
+        <itunes:summary>plot build-up</itunes:summary>
+        <itunes:image href="https://j1819-3845.github.io/podcast-server/logo-titan.jpg" />
+        <enclosure url="https://j1819-3845.github.io/podcast-server/mp3/Titan-05.mp3" length="22123064" type="audio/mpeg"/>
+        <guid>https://j1819-3845.github.io/podcast-server/mp3/Titan-05.mp3</guid>
+        <pubDate>Wed, 19 Jun 2022 17:00:00 GMT</pubDate>
+        <itunes:duration>46:05</itunes:duration>
+      </item>
+   
+         <item>
+        <title>Titan 06</title>
+        <itunes:author>Chernow</itunes:author>
+        <itunes:subtitle>second episode</itunes:subtitle>
+        <itunes:summary>plot build-up</itunes:summary>
+        <itunes:image href="https://j1819-3845.github.io/podcast-server/logo-titan.jpg" />
+        <enclosure url="https://j1819-3845.github.io/podcast-server/mp3/Titan-06.mp3" length="21747109" type="audio/mpeg"/>
+        <guid>https://j1819-3845.github.io/podcast-server/mp3/Titan-06.mp3</guid>
+        <pubDate>Wed, 19 Jun 2022 13:00:00 GMT</pubDate>
+        <itunes:duration>45:18</itunes:duration>
+      </item>
+   
+         <item>
+        <title>Titan 07</title>
+        <itunes:author>Chernow</itunes:author>
+        <itunes:subtitle>second episode</itunes:subtitle>
+        <itunes:summary>plot build-up</itunes:summary>
+        <itunes:image href="https://j1819-3845.github.io/podcast-server/logo-titan.jpg" />
+        <enclosure url="https://j1819-3845.github.io/podcast-server/mp3/Titan-07.mp3" length="21503439" type="audio/mpeg"/>
+        <guid>https://j1819-3845.github.io/podcast-server/mp3/Titan-07.mp3</guid>
+        <pubDate>Wed, 19 Jun 2022 18:00:00 GMT</pubDate>
+        <itunes:duration>44:48</itunes:duration>
+      </item>
+   
+         <item>
+        <title>Titan 08</title>
+        <itunes:author>Chernow</itunes:author>
+        <itunes:subtitle>second episode</itunes:subtitle>
+        <itunes:summary>plot build-up</itunes:summary>
+        <itunes:image href="https://j1819-3845.github.io/podcast-server/logo-titan.jpg" />
+        <enclosure url="https://j1819-3845.github.io/podcast-server/mp3/Titan-08.mp3" length="21348167" type="audio/mpeg"/>
+        <guid>https://j1819-3845.github.io/podcast-server/mp3/Titan-08.mp3</guid>
+        <pubDate>Wed, 19 Jun 2022 19:00:00 GMT</pubDate>
+        <itunes:duration>44:28</itunes:duration>
+      </item>
+
+            <item>
+        <title>Pre-suasion 01</title>
+        <itunes:author>Cialdini</itunes:author>
+        <itunes:subtitle>Complete audio book</itunes:subtitle>
+        <itunes:summary>Audio Book complete</itunes:summary>
+        <itunes:image href="https://j1819-3845.github.io/podcast-server/logo-suase.jpg" />
+        <enclosure url="https://j1819-3845.github.io/podcast-server/mp3/Pre-Suasion-01.mp3" length="72621123" type="audio/mpeg"/>
+        <guid>https://j1819-3845.github.io/podcast-server/mp3/Pre-Suasion-01.mp3</guid>
+        <pubDate>Thu, 23 Jun 2022 23:00:00 GMT</pubDate>
+        <itunes:duration>02:30:00</itunes:duration>
+      </item>
+
+                  <item>
+        <title>Pre-suasion 02</title>
+        <itunes:author>Cialdini</itunes:author>
+        <itunes:subtitle>Complete audio book</itunes:subtitle>
+        <itunes:summary>Audio Book complete</itunes:summary>
+        <itunes:image href="https://j1819-3845.github.io/podcast-server/logo-suase.jpg" />
+        <enclosure url="https://j1819-3845.github.io/podcast-server/mp3/Pre-02.mp3" length="73743989" type="audio/mpeg"/>
+        <guid>https://j1819-3845.github.io/podcast-server/mp3/Pre-Suasion-02.mp3</guid>
+        <pubDate>Thu, 23 Jun 2022 23:00:00 GMT</pubDate>
+        <itunes:duration>02:30:00</itunes:duration>
+      </item>
+
+                  <item>
+        <title>Pre-suasion 03</title>
+        <itunes:author>Cialdini</itunes:author>
+        <itunes:subtitle>Complete audio book</itunes:subtitle>
+        <itunes:summary>Audio Book complete</itunes:summary>
+        <itunes:image href="https://j1819-3845.github.io/podcast-server/logo-suase.jpg" />
+        <enclosure url="https://j1819-3845.github.io/podcast-server/mp3/Pre-Suasion-03.mp3" length="71890440" type="audio/mpeg"/>
+        <guid>https://j1819-3845.github.io/podcast-server/mp3/Pre-Suasion-03.mp3</guid>
+        <pubDate>Thu, 23 Jun 2022 23:00:00 GMT</pubDate>
+        <itunes:duration>02:30:00</itunes:duration>
+      </item>
+
+                  <item>
+        <title>Pre-suasion 04</title>
+        <itunes:author>Cialdini</itunes:author>
+        <itunes:subtitle>Complete audio book</itunes:subtitle>
+        <itunes:summary>Audio Book complete</itunes:summary>
+        <itunes:image href="https://j1819-3845.github.io/podcast-server/logo-suase.jpg" />
+        <enclosure url="https://j1819-3845.github.io/podcast-server/mp3/Pre-Suasion-04.mp3" length="56034421" type="audio/mpeg"/>
+        <guid>https://j1819-3845.github.io/podcast-server/mp3/Pre-Suasion-04.mp3</guid>
+        <pubDate>Thu, 23 Jun 2022 23:00:00 GMT</pubDate>
+        <itunes:duration>01:54:07</itunes:duration>
+      </item>
+   
+  </channel>
+  </rss>
